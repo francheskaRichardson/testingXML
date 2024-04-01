@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styleCountry.xslt"?>
+<countries>
+    <country countryList="SLU">
+        <name>
+            <officialName>Saint Lucia</officialName>
+            <altNames>Helen of the West</altNames>
+            <history>
+                <belongTo>England</belongTo>
+                <startYr>1814</startYr>
+                <endYr>1979</endYr>
+                <leader>Queen</leader>
+                <leaderTerm>
+                    <startYr>---</startYr>
+                    <endYr>1979</endYr>
+                </leaderTerm>
+            </history>
+        </name>
+    </country>
+    <country countryList="BIM">
+        <name>
+            <officialName>Barbados</officialName>
+            <altNames>Land of Flying Fish</altNames>
+            <history>
+                <belongTo>England</belongTo>
+                <startYr>1800</startYr>
+                <endYr>1900</endYr>
+                <leader>Queen</leader>
+                <leaderTerm>
+                    <startYr>---</startYr>
+                    <endYr>1900</endYr>
+                </leaderTerm>
+            </history>
+        </name>
+    </country>
+</countries>
